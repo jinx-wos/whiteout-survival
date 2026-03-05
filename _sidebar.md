@@ -1,2 +1,36 @@
-- [Read Me](README)
-- [Example Second Page](second-page)
+- [Home](/)
+
+- Guides
+  - Heroes
+    - [Generation 1](/guides/heroes/generation-01.md)
+    - [Generation 2](/guides/heroes/generation-02.md)
+    - [Generation 3](/guides/heroes/generation-03.md)
+    - [Generation 4](/guides/heroes/generation-04.md)
+    - [Generation 5](/guides/heroes/generation-05.md)
+    - [Generation 6](/guides/heroes/generation-06.md)
+    - [Generation 7](/guides/heroes/generation-07.md)
+    - [Generation 8](/guides/heroes/generation-08.md)
+    - [Generation 9](/guides/heroes/generation-09.md)
+    - [Generation 10](/guides/heroes/generation-10.md)
+    - [Generation 11](/guides/heroes/generation-11.md)
+    - [Generation 12](/guides/heroes/generation-12.md)
+    - [Generation 13](/guides/heroes/generation-13.md)
+    - [Generation 14](/guides/heroes/generation-14.md)
+    - [Generation 15](/guides/heroes/generation-15.md)
+
+  - Events
+    - [Bear Hunt](/guides/events/bear-hunt.md)
+    - [Crazy Joe](/guides/events/crazy-joe.md)
+    - [Foundry Battle](/guides/events/foundry-battle.md)
+    - [Canyon Clash](/guides/events/canyon-clash.md)
+    - [Frostfire Mine](/guides/events/frostfire-mine.md)
+    - [Fortress Battle](/guides/events/fortress-battle.md)
+    - [Mercenary Prestige](/guides/events/mercenary-prestige.md)
+    - [State vs State](/guides/events/state-vs-state.md)
+    - [Snowbusters](/guides/events/snowbusters.md)
+    - [Fishing Tournament](/guides/events/fishing-tournament.md)
+
+  - Other
+    - [Presidency](/guides/other/presidency.md)
+    - [Shop Guide](/guides/other/shop-guide.md)
+    - [Formations](/guides/other/formations.md)
