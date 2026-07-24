@@ -40,6 +40,18 @@ Foundry Battle is all about power and coordination. Disciplined attendance, assi
 | Leaving the battlefield        | Leaving begins a 12-minute cooldown before the player may re-enter                                                                                                                          |
 | No matchmaking opponent        | The Legion receives an auto-advance; the alliance receives highest alliance ranking rewards, while registered Combatants and Substitutes receive the designated auto-advance personal rewards |
 
+---
+
+## Foundry Battle Event Phases
+
+| Phase              | Starts                             | Ends                             | High-Level Overview                                                                                                                                                                                                  |
+| ------------------ | ---------------------------------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Voting Phase       | Monday at 00:00 UTC                | Tuesday at 23:59 UTC             | Alliance members vote for their preferred battle time. The vote helps alliance leadership understand player availability.                                          |
+| Registration Phase | Wednesday at 00:00 UTC             | Thursday at 23:59 UTC            | Alliance leadership selects a battle time for one or both legions (if available/participating) and assign players to Legion 1 or Legion 2 as Combatants or Substitutes. Rosters should be based on confirmed attendance because registered players affect matchmaking.       |
+| Matchmaking Phase  | Friday at 00:00 UTC                | Saturday at 23:59 UTC            | Registration is closed and the rosters are locked. The system searches for an opposing Legion using the selected battle time and the matchmaking power of the 20 strongest registered players.                          |
+| Battle Phase       | Sunday at the selected battle time | One hour after the battle begins | The two matched Legions enter the Foundry battlefield and compete for Alliance Arsenal Points. Buildings and objectives unlock across three battlefield stages, and the Legion with the most points at the end wins. |
+
+The Foundry Battle cycle begins every other Monday at 00:00 UTC and concludes after the alliance’s selected battle time on Sunday.
 
 ---
 
