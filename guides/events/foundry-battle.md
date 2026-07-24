@@ -1,30 +1,45 @@
-# Foundry Battle
+# A Compehensive Guide to Foundry Battle
 
-Foundry Battle is a competitive alliance event in which two Legions enter a separate battlefield, capture structures, fight for control of the map, and earn two different kinds of points. **Alliance Arsenal Points** decide which alliance wins the match. **Personal Arsenal Points** decide each player's individual reward tier.
+## Overview
 
-Foundry is often described as a building-control event, but that description is incomplete. A team can control more buildings for most of the match and still lose if it allows the opponent to capture a heavily stocked structure and collect the points that spill out. Strong Foundry play depends on understanding how points accumulate, knowing which buildings are actually worth defending, moving quickly with teleports, preserving Infantry, and coordinating the whole Legion around the same objective.
+Foundry Battle is a biweekly, one-hour Alliance-versus-Alliance event in which two Legions compete to earn Arsenal Points. Unlike a normal open-world battle, the primary objective is not to destroy the opposing army. Victory goes to the Legion that finishes with the most Alliance Arsenal Points, earned through capturing buildings, maintaining control of them, and collecting Arsenal Supplies across the battlefield. Troops injured/lost during the event are restored afterward.
 
-This guide explains the event from registration through the final seconds of the battle. It combines the current in-game rules with practical strategy used by experienced alliances.
+The event follows a preparation cycle consisting of voting, registration, matchmaking, and battle. An alliance must rank within the top 20 for Alliance Power before voting begins. R5 and R4 members select the battle time and may register up to 30 combatants and 10 substitutes in each Legion. Legion 1 is strategically more important because its result determines the alliance’s overall ranking and alliance-level rewards, while players in both Legions can earn personal rewards. If the matchmaking system cannot find an opponent for a Legion, that Legion receives an automatic advance and the highest alliance-ranking rewards.
 
-> **Important:** Foundry rules and rewards can change between game versions. When the in-game Rules Overview conflicts with an older guide, the current in-game rules should be treated as the source of truth.
+Matchmaking is based on the combined matchmaking power of the 20 strongest registered Chiefs, including both combatants and substitutes. Current matchmaking power includes Chief Gear Power, Hero Gear Power, Battle Tech Power, Pet Power, Expert Power, Furnace Level, and Troop Level. The number of troops owned is not used as a factor in matchmaking. Because registered players affect matchmaking even when they do not attend, leaders should only register members who are available for the battle. A powerful no-show can produce a significantly harder opponent without providing any battlefield value.
+
+The battlefield develops in three stages. The opening stage centers on outer buildings such as Prototype Sites, Repair Facilities, the Boiler Room, and the Transit Station. The Imperial Foundry, Munitions Warehouse, and Mercenary Camp become available later, followed by Weapon Workshops that appear during the final stage. All buildings generate points while some others may also provide major tactical advantages such as faster building occupation, reduced teleport cooldowns, stronger combat performance, or mercenary attacks against enemy positions.
+
+Once a building is captured, it accumulates temporary Arsenal Points. When the enemy captures one of these buildings, its temporary points are released onto the battlefield as Arsenal Supplies that either side can collect. This creates major point swings and means that holding a valuable building is not enough by itself; the alliance must also be prepared to defend its stored points or quickly collect them after the building falls. Weapon Workshops and dropped Arsenal Supplies can decide close matches, particularly during the final minutes.
+
+Foundry Battle is all about power and coordination. Disciplined attendance, assigned teams, clear building ownership, controlled teleport use, timely reinforcements, and rapid collection of dropped points often determine the winner. Alliances that chase personal combat points or move randomly around the map may win individual fights while still losing the overall battle. The strongest approach is to divide players into dedicated attack, reinforcement, and collection roles and manage the battlefield as a point economy rather than a simple brawl.
 
 ---
 
 ## Foundry Battle at a Glance
 
-| Topic | Rule |
-|---|---|
-| Match format | One alliance Legion against another alliance Legion |
-| Main objective | Finish with more Alliance Arsenal Points |
-| Tiebreaker | Defeat more enemy power during the battle |
-| Legions available | Up to two per alliance |
-| Players per Legion | Up to 30 Combatants and 10 Substitutes |
-| Minimum roster | 15 registered players per Legion |
-| Maximum personal reward tier | 180,000 Personal Arsenal Points |
-| Permanent troop deaths | None |
-| Battlefield Infirmary | Unlimited capacity with free treatment |
-| Forced re-entry cooldown | 12 minutes |
-| No matchmaking opponent | Automatic win with the highest-level prizes |
+
+| Topic                          | Rule                                                                                                                                                                                        |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Match format                   | One alliance Legion competes against one opposing alliance Legion                                                                                                                           |
+| Battle duration                | 60 minutes                                                                                                                                                                                  |
+| Alliance eligibility           | The alliance must be ranked within the top 20 for Alliance Power before the Voting Phase begins                                                                                             |
+| Legions available              | Up to two Legions per alliance                                                                                                                                                              |
+| Players per Legion             | Up to 30 Combatants and 10 Substitutes                                                                                                                                                      |
+| Minimum roster                 | At least 15 total players must be registered, counting Combatants and Substitutes                                                                                                           |
+| Substitute entry               | Substitutes may enter beginning 3 minutes after the battle starts when space is available                                                                                                   |
+| Main objective                 | Finish with more Alliance Arsenal Points than the opposing Legion                                                                                                                           |
+| How alliance points are earned | Capture buildings, maintain control, collect Arsenal Supplies, and gather from Weapon Workshops                                                                                             |
+| Tiebreaker                     | If both Legions finish with equal Alliance Arsenal Points, the Legion that defeated more enemy power wins                                                                                   |
+| Legion 1 importance            | Legion 1 determines the alliance’s Foundry tier, battle-result rewards, and Alliance Ranking Rewards                                                                                        |
+| Matchmaking                    | Based on the combined matchmaking power of the 20 strongest registered Chiefs across both Combatants and Substitutes                                                                        |
+| Roster size and matchmaking    | Registering more than 20 players does not directly increase the matchmaking calculation, but powerful Substitutes can still be included among the top 20                                    |
+| Maximum personal reward tier   | 180,000 Personal Arsenal Points                                                                                                                                                             |
+| Permanent troop deaths         | None; battlefield losses do not affect the troops in your City                                                                                                                              |
+| Battlefield healing            | Injured troops can be treated during battle and are automatically restored when the battle ends                                                                                             |
+| Leaving the battlefield        | Leaving begins a 12-minute cooldown before the player may re-enter                                                                                                                          |
+| No matchmaking opponent        | The Legion receives an auto-advance; the alliance receives highest alliance ranking rewards, while registered Combatants and Substitutes receive the designated auto-advance personal rewards |
+
 
 ---
 
