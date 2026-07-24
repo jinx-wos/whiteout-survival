@@ -1,16 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="utf-8">
-  <meta name="viewport"
-    content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover"
+  >
 
   <title>Whiteout Survival Guides</title>
-  <meta name="description" content="Whiteout Survival alliance guides and strategy resources.">
 
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <meta
+    name="description"
+    content="Whiteout Survival alliance guides and strategy resources."
+  >
 
+  <!-- Current Docsify theme -->
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"
+  >
+
+  <!-- Collapsible sidebar arrow styling -->
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/docsify-sidebar-collapse@1.3.5/dist/sidebar.min.css"
+  >
 </head>
 
 <body>
@@ -21,23 +36,36 @@
       name: 'Whiteout Survival Guides',
 
       auto2top: true,
+
       loadSidebar: true,
+
+      // Always use the main sidebar, including on nested pages
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      },
 
       maxLevel: 0,
       subMaxLevel: 3,
 
+      // Show top-level sections but collapse their contents
+      sidebarDisplayLevel: 1,
+
       search: {
         placeholder: 'Search guides',
         noData: 'No matches found.',
-        depth: 2,
+        depth: 2
       }
     };
   </script>
 
+  <!-- Docsify -->
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
 
+  <!-- Existing plugins -->
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
 
+  <!-- Collapsible sidebar plugin -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-sidebar-collapse@1.3.5/dist/docsify-sidebar-collapse.min.js"></script>
 </body>
 </html>
