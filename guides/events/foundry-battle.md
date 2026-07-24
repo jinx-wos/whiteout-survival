@@ -1,82 +1,90 @@
 # Foundry Battle
 
-Foundry Battle is a two-alliance battlefield event where players capture buildings, earn **Alliance Arsenal Points** and **Personal Arsenal Points**, and fight without permanent troop deaths.
+Foundry Battle is a competitive alliance event in which two Legions enter a separate battlefield, capture structures, fight for control of the map, and earn two different kinds of points. **Alliance Arsenal Points** decide which alliance wins the match. **Personal Arsenal Points** decide each player's individual reward tier.
 
-The alliance with the most Alliance Arsenal Points when the battle timer reaches zero wins. If both alliances finish with the same score, the alliance that defeated more enemy troop power wins.
+Foundry is often described as a building-control event, but that description is incomplete. A team can control more buildings for most of the match and still lose if it allows the opponent to capture a heavily stocked structure and collect the points that spill out. Strong Foundry play depends on understanding how points accumulate, knowing which buildings are actually worth defending, moving quickly with teleports, preserving Infantry, and coordinating the whole Legion around the same objective.
 
-> Foundry is not only a building-holding contest. Timing, point denial, coordinated teleports, troop management, and collecting dropped points can overcome a large difference in passive points per minute.
+This guide explains the event from registration through the final seconds of the battle. It combines the current in-game rules with practical strategy used by experienced alliances.
+
+> **Important:** Foundry rules and rewards can change between game versions. When the in-game Rules Overview conflicts with an older guide, the current in-game rules should be treated as the source of truth.
 
 ---
 
-## Quick Reference
+## Foundry Battle at a Glance
 
-| Rule | Details |
+| Topic | Rule |
 |---|---|
-| Win condition | Most Alliance Arsenal Points when time expires |
-| Tiebreaker | Most enemy troop power defeated |
-| Maximum personal reward tier | **180,000 Personal Arsenal Points** |
-| Attacking kill points | **80 Personal Points** per 10,000 enemy Troop Power defeated |
-| Defending kill points | **40 Personal Points** per 10,000 enemy Troop Power defeated |
-| Legions | Up to 2 per alliance |
-| Players per Legion | 30 Combatants and 10 Substitutes |
+| Match format | One alliance Legion against another alliance Legion |
+| Main objective | Finish with more Alliance Arsenal Points |
+| Tiebreaker | Defeat more enemy power during the battle |
+| Legions available | Up to two per alliance |
+| Players per Legion | Up to 30 Combatants and 10 Substitutes |
+| Minimum roster | 15 registered players per Legion |
+| Maximum personal reward tier | 180,000 Personal Arsenal Points |
 | Permanent troop deaths | None |
+| Battlefield Infirmary | Unlimited capacity with free treatment |
 | Forced re-entry cooldown | 12 minutes |
-| Alliance reward result | Based on the outcome of the alliance's Legion 1 battle |
+| No matchmaking opponent | Automatic win with the highest-level prizes |
 
 ---
 
-## Eligibility and Registration
+## What Determines the Winner
 
-### Alliance Eligibility
+The alliance with the most **Alliance Arsenal Points** when the battle timer reaches zero wins.
 
-Only the **top 20 alliances on the Power Leaderboard** before the event begins are eligible to register.
+Alliance Arsenal Points primarily come from taking control of buildings, holding them over time, and collecting Alliance Arsenal Points that appear on the ground when control changes. Defeating enemy troops is useful because it removes defenders and earns Personal Arsenal Points, but troop kills do not directly add Alliance Arsenal Points to the alliance score.
 
-The Alliance Leader and R4 officers can register the alliance and select participants.
+If both alliances finish with the same number of Alliance Arsenal Points, the winner is the alliance that defeated more enemy power during the match.
 
-### Legion Registration
-
-Each alliance may register up to two Legions.
-
-Each Legion may contain:
-
-- Up to **30 Combatants**
-- Up to **10 Substitutes**
-- At least **15 total registered players** to participate in matchmaking
-
-A player may only be selected for one Legion and may only serve as either a Combatant or Substitute.
-
-Members at R4 and below may request a Legion and switch their request before registration ends, but they may only request one Legion at a time.
-
-### Legion 2 Requirements
-
-Legion 1 is available by default.
-
-To unlock Legion 2, the alliance must:
-
-- Reach at least **Alliance Level 6**
-- Have at least **40 members who logged in during the current week**
-
-Members who leave the alliance affect this count.
-
-### Player Eligibility
-
-Players must:
-
-- Have at least a **Level 16 Furnace**
-- Have joined the alliance before registration
-- Have been active within the required period
-
-Members who have been offline for five days or longer cannot be dispatched unless they were already selected.
-
-New members who join after registration has ended cannot participate or spectate.
+A Legion that cannot be matched with an opponent does not enter a normal battle. It receives an automatic victory and is awarded the highest-level prizes.
 
 ---
 
-## Matchmaking
+## The Two-Legion System
 
-Legions are matched using Matchmaking Points.
+An alliance can register up to two Legions. Each Legion is treated as a separate roster for matchmaking and participation.
 
-Matchmaking Points are based on the Troop Power of the top 20 registered Chiefs. The main sources include:
+Legion 1 is available by default. Legion 2 must be unlocked by meeting the game's alliance requirements. According to the in-game rules, the alliance must be at least **Alliance Level 6** and must have at least **40 members who have logged in during the current week**. Members who leave the alliance reduce that weekly active-member count.
+
+Each Legion may contain up to **30 Combatants** and **10 Substitutes**. A player may only be registered in one Legion and may only occupy one role. A player cannot be listed as both a Combatant and a Substitute, and cannot register for both Legions.
+
+A Legion needs at least **15 registered players** to enter matchmaking. This requirement is checked separately for Legion 1 and Legion 2.
+
+Alliance-wide rewards are based on the result of **Legion 1**. Personal rewards are based on each participating player's Personal Arsenal Points and whether that player's Legion won or lost.
+
+---
+
+## Alliance and Player Eligibility
+
+Only the **top 20 alliances on the Power Leaderboard** before the event begins are eligible to register for Foundry Battle.
+
+The Alliance Leader and R4 officers handle registration, select the battle time, assign players to Legions, and decide which members are Combatants or Substitutes. Members below R4 may request a Legion and may change their request before registration closes, but the final roster is controlled by alliance leadership.
+
+A player must have joined the alliance before registration and must have at least a **Level 16 Furnace** to be eligible. Members who have been offline for five days or longer cannot be dispatched unless they had already been selected before reaching that inactivity threshold.
+
+Members who join the alliance after registration has ended cannot participate in that Foundry Battle and cannot receive the alliance participation rewards for that registration period.
+
+The game also tracks Foundry participation history for ranking purposes. If an alliance fails to register for Foundry Battle for three consecutive seasons or longer, it will not appear on the Win Ratio Ranking.
+
+---
+
+## Registration Strategy
+
+Registration is more than filling the roster with the thirty strongest accounts. Foundry rewards attendance, communication, and fast reactions. An alliance that registers powerful players who do not show up may enter with an impressive matchmaking profile and a weak actual roster.
+
+A good Foundry roster should prioritize players who will attend the full battle, follow calls, use the alliance's communication channel, understand rallies and reinforcements, and have enough troops and healing speedups to keep fighting. A reliable mid-power player is often more useful than a larger account that joins late, ignores instructions, or disappears after the opening phase.
+
+Legion 1 should normally contain the alliance's strongest combination of active players, rally leaders, experienced defenders, and dependable support accounts because Legion 1 determines the alliance-wide win or loss rewards.
+
+Substitutes should not be treated as unimportant reserves. They should be players who are likely to attend and can enter when a Combatant is absent. A substitute who is online and prepared can save a roster from entering short-handed.
+
+---
+
+## How Matchmaking Works
+
+Matchmaking uses the strength of the top 20 registered Chiefs in the Legion.
+
+The in-game rules list the following factors:
 
 - Chief Gear Power
 - Hero Gear Power
@@ -84,153 +92,122 @@ Matchmaking Points are based on the Troop Power of the top 20 registered Chiefs.
 - Pet Power
 - Expert Power
 - Furnace Level
-- Troop Level
+- Troop Levels
 
-Legions registered for the same time slot are matched with each other first.
+**Total troop power is not a listed matchmaking factor.** Troop power represents the combined power of all troops owned by a player, while Foundry matchmaking considers the listed progression systems and troop levels instead of simply counting the player's full troop inventory.
 
-When no suitable match is available, the game may match Legions from nearby time slots. The final match time may be selected from either alliance's chosen slot or from a midpoint between the two slots.
+The game first attempts to match Legions registered for the same battle time. When an appropriate opponent is not available in that exact slot, matchmaking may use nearby time slots. The final battle time may be taken from either alliance's selected time or from a midpoint between the two choices.
 
-### Registration Advice
+When the game cannot find any suitable opponent for a Legion, that Legion automatically wins and receives the highest-level prizes.
 
-Do not register players only because they have high displayed power.
+### What This Means for Roster Building
 
-Prioritize players who:
+Because only the top 20 registered Chiefs are used for matchmaking strength, the strongest twenty players have the greatest effect on the opponent the Legion receives. The remaining registered players still matter greatly during the battle, but they do not influence matchmaking in the same way.
 
-- Will definitely attend
-- Follow calls quickly
-- Can use voice chat or alliance communication
-- Understand rallies and reinforcements
-- Can remain active for the full battle
-- Have enough troops and healing speedups to sustain repeated fighting
-
-A slightly weaker active roster is usually better than a stronger roster filled with absent players.
+Leadership should not attempt to manipulate the roster blindly. Removing useful strong players can weaken the team more than it helps matchmaking. The better approach is to register an honest, active roster and make sure the strongest twenty players are people who will actually attend.
 
 ---
 
-## Preparing Before the Battle
+## Preparing to Enter the Battlefield
 
-A Chief can only enter the battlefield when all of the following are true:
+A Chief cannot enter Foundry Battle while certain city activities are still active.
 
-- No troops are scouting
-- No troops are marching outside the city
-- No injured troops remain in the Infirmary
-- The Barricade is not burning
-- No reinforcements from another Chief remain in the Embassy
+Before entering, the player must have no troops scouting, no troops marching outside the city, no injured troops in the normal Infirmary, no burning Barricade, and no reinforcements from another Chief remaining in the Embassy.
 
-Before entering:
+This means preparation should begin before the battle opens. Recall gathering marches and scouts early. Ask outside reinforcements to leave. Heal the normal Infirmary completely. Extinguish the Barricade. Save the formations that will be used for attacking, defending, and joining rallies.
 
-1. Heal all injured troops.
-2. Recall every march and scout.
-3. Remove outside reinforcements.
-4. Extinguish your Barricade if necessary.
-5. Save your attack and defense formations.
-6. Confirm your assigned starting building.
-7. Join the alliance's voice or command channel.
-8. Keep enough Advanced Teleporters and healing speedups available.
-9. Check that your strongest combat heroes and gear are ready.
+Players should also confirm their assigned role before entering. Foundry becomes disorganized very quickly when everyone teleports to the same building or when important structures are left empty because players assumed someone else was covering them.
 
-Tech, VIP, Chief Gear, and Skin bonuses remain active inside Foundry Battle.
-
-The best hero lineups change as new generations release, so follow your alliance's current expedition formations instead of relying on an old fixed hero list.
+Normal Tech, VIP, Chief Gear, and Skin bonuses remain active inside the battlefield. Players should enter with their strongest relevant expedition setup prepared.
 
 ---
 
-## How the Battle Works
+## What Happens Inside Foundry
 
-Once inside the battlefield:
+Allied cities and forces appear blue. Enemy cities and forces appear red.
 
-- Allied cities and forces are marked blue.
-- Enemy cities and forces are marked red.
-- Buildings generate Alliance and Personal Arsenal Points.
-- Capturing buildings may release accumulated points onto the battlefield.
-- Players must collect dropped points before the enemy does.
-- Troops cannot permanently die.
-- Injured troops enter the battlefield Infirmary.
-- The battlefield Infirmary has unlimited capacity.
-- Treatment is free.
-- Injured troops immediately recover when the player leaves the battlefield.
+Players can teleport, attack cities, rally buildings, reinforce allied structures, gather points from the ground, and move between objectives as the battle phases unlock more of the map.
 
-Players receive one free Advanced Teleporter at the start of the battle. Another becomes available after its cooldown expires.
+Troops cannot permanently die in Foundry. Injured troops enter a special battlefield Infirmary with unlimited capacity. Treatment is free. Any injured troops remaining in that battlefield Infirmary recover when the Chief leaves the battlefield.
 
-Cities burn much faster inside Foundry. If a city's defenders are overwhelmed and the fire is not extinguished quickly, the city may be forcibly relocated to the safe zone.
+This removes the permanent troop-loss risk found in ordinary warfare, but troop management still matters. An account with most of its Infantry injured may remain alive on the map while being almost useless in combat. Foundry rewards players who rotate troops, heal at the right time, and leave the battlefield when they can no longer contribute.
 
-A Chief forced to leave the battle must wait **12 minutes** before re-entering.
+Cities burn much faster inside Foundry. If a city's defenders are overwhelmed and the fire is not extinguished quickly, the city may be forcibly relocated to the safe area. A Chief who is forced out of the battle must wait **12 minutes** before returning.
 
 ---
 
-## Arsenal Points
+## Advanced Teleporters
 
-There are two separate point systems.
+Each player receives one free Advanced Teleporter when entering the battle. Another becomes available after the teleporter cooldown finishes.
+
+Teleporters are one of the most important resources in Foundry. A strong alliance does not use them only for convenience. It uses them to create sudden local superiority, surround a valuable building, collect dropped points, reinforce a threatened structure, or escape an exposed position.
+
+The Transit Station reduces the cooldown of the Advanced Teleporter by **50%**, which can give the controlling alliance a major mobility advantage.
+
+Players should avoid wasting teleports on small movements that could have been handled with a short march. A saved teleporter can decide the battle when the enemy exposes a building with a large point bank.
+
+---
+
+## Alliance Arsenal Points and Personal Arsenal Points
+
+Foundry uses two score systems that serve different purposes.
 
 ### Alliance Arsenal Points
 
-Alliance Arsenal Points determine which alliance wins.
+Alliance Arsenal Points decide the match. They are earned through first occupation, ongoing control of buildings, and collection of Alliance Arsenal Points released around a building when control changes.
 
-They are mainly earned by:
-
-- First occupation of buildings
-- Holding buildings over time
-- Collecting Alliance Arsenal Points dropped around captured buildings
-
-Defeating enemy troops does not directly award Alliance Arsenal Points.
+A player can earn a large personal score while contributing very little to the alliance's chance of winning. Chasing cities for kills may feel productive, but it can be a bad trade if the alliance loses the Imperial Foundry or allows the enemy to collect a large point drop.
 
 ### Personal Arsenal Points
 
-Personal Arsenal Points determine each player's reward tier.
+Personal Arsenal Points determine the player's personal reward tier. They come from first occupation, remaining in controlled buildings, collecting Personal Arsenal Points from the ground, and defeating enemy forces.
 
-They are earned by:
+For every **10,000 power** defeated:
 
-- First occupation of buildings
-- Remaining inside occupied buildings
-- Collecting Personal Arsenal Points dropped on the battlefield
-- Defeating enemy troops while attacking
-- Defeating enemy troops while defending
+| Situation | Personal Arsenal Points |
+|---|---:|
+| Attacking | 80 |
+| Defending | 40 |
 
-For every 10,000 enemy Troop Power defeated:
+Attacking awards twice as many Personal Arsenal Points as defending for the same amount of enemy power defeated.
 
-- Attacking awards **80 Personal Arsenal Points**
-- Defending awards **40 Personal Arsenal Points**
-
-Attacking is therefore the faster source of personal kill points.
+The maximum personal reward tier begins at **180,000 Personal Arsenal Points**.
 
 ---
 
-## Battle Phases
+## Personal Reward Thresholds
 
-Foundry buildings unlock in three phases.
+The in-game reward screen divides personal rewards into the following score ranges:
 
-### Phase 1
+| Personal Arsenal Points | Reward Tier |
+|---:|---|
+| 2,000–19,999 | Tier 1 |
+| 20,000–41,999 | Tier 2 |
+| 42,000–89,999 | Tier 3 |
+| 90,000–179,999 | Tier 4 |
+| 180,000 or more | Maximum tier |
 
-The following buildings can be contested:
+Winning and losing Legions both receive personal rewards, but the winning reward table is better.
 
-- Prototype Sites
-- Repair Facilities
-- Boiler Rooms
-- Transit Stations
+Players should check their personal score throughout the battle. Waiting until the final minute to discover that several members are below 180,000 usually leads to rushed, uncoordinated attacks.
 
-Use the opening phase to establish map control, secure mobility, and create a stable point income.
+---
 
-### Phase 2
+## How Building Points Work
 
-The following buildings become available:
+Every Foundry building can provide a first-control reward and an ongoing point income.
 
-- Imperial Foundry
-- Munitions Warehouses
-- Mercenary Camps
+The first-control reward is paid when a side first takes the structure. The ongoing reward is generated every minute while the building remains under that side's control.
 
-This is usually when the largest coordinated fights begin.
+Buildings also accumulate points. When control changes, stored points can appear around the building and may be collected by either alliance. This is why the scoreboard can change dramatically after one successful attack.
 
-### Phase 3
+A building with a high passive income is not automatically valuable to the current owner. If the alliance cannot defend it, the structure may become a point bank for the enemy. The longer the alliance holds it without a realistic defense plan, the more dangerous the eventual loss becomes.
 
-Weapon Workshops begin appearing randomly across the battlefield.
-
-Keep a mobile response group available instead of committing every player to one location.
+Experienced alliances constantly compare four things: the value of first control, the value of continued occupation, the amount of points currently stored, and the likelihood of defending or retaking the structure.
 
 ---
 
 ## Building Point Values
-
-The values below are awarded for each listed building.
 
 | Building | Alliance First Control | Alliance per Minute | Personal First Control | Personal per Minute |
 |---|---:|---:|---:|---:|
@@ -246,541 +223,468 @@ The values below are awarded for each listed building.
 | Transit Station | 1,200 | 240 | 600 | 120 |
 | Boiler Room | 1,200 | 240 | 600 | 120 |
 
-### Imperial Foundry
+These numbers explain why the Imperial Foundry and Prototype Sites receive so much attention. Together they generate a large share of the map's passive score. However, their value also makes them dangerous places to store points when the defense is weak.
 
-The Imperial Foundry provides the highest first-control and ongoing point income.
+---
 
-It is the most valuable building on the map, but it can also become a trap. Holding it for a long time allows a large number of points to accumulate. If the enemy captures it and collects the dropped points, the score can swing quickly.
+## Battle Phases
 
-Control it when your alliance can defend it or when your team is ready to retake and collect it.
+Foundry does not open every objective at once. Buildings unlock in three phases, which changes the shape of the battle as time passes.
 
-### Prototype Sites
+### Phase 1
 
-The two Prototype Sites provide the second-highest passive point income.
+Prototype Sites, Repair Facilities, Boiler Rooms, and Transit Stations can be contested.
 
-They are strong long-term objectives and excellent locations for players who still need Personal Arsenal Points.
+The opening phase is about creating a stable map position. Alliances usually divide into groups so that the largest accounts are not all trapped at one location. The Transit Station is especially useful because it improves mobility for later phases.
 
-### Repair Facilities
+The opening should not become a mindless race to touch every building. First occupation is valuable, but overextending makes it easy for the enemy to isolate and remove weak garrisons.
 
-The four Repair Facilities are positioned around the battlefield.
+### Phase 2
 
-Their spread makes them useful for creating multiple areas of control, but do not overextend by defending all four when your alliance lacks enough strong garrisons.
+The Imperial Foundry, Munitions Warehouses, and Mercenary Camps become available.
 
-### Munitions Warehouse
+This is usually the most intense part of the battle. The Imperial Foundry generates the most points, the Munitions Warehouse provides combat bonuses, and the Mercenary Camp can weaken enemy-controlled buildings.
 
-The Munitions Warehouse provides combat bonuses shown in-game as a **+15%** modifier and a **-15%** modifier.
+Teams that spent every teleport and every strong march during Phase 1 may struggle when the central objectives open.
 
-It produces fewer points than the major buildings, but its combat effects can influence nearby battles.
+### Phase 3
 
-### Mercenary Camp
+Weapon Workshops begin appearing randomly across the map.
+
+Because their locations are random, a Legion needs a mobile group that still has teleports and available marches. A team that has committed every player to long marches may be unable to respond before the opponent secures the workshops.
+
+---
+
+## The Imperial Foundry
+
+The Imperial Foundry is the highest-value building in the event. It awards 9,000 Alliance Arsenal Points for first control and generates 1,800 Alliance Arsenal Points per minute. It also provides the highest passive Personal Arsenal Point income.
+
+Players often call it the castle because of its central importance.
+
+Controlling the Imperial Foundry creates a strong score advantage, but it also creates the largest point bank on the map. If the defending alliance allows too many points to accumulate and then loses the building, the opponent can collect the released points and reverse the match.
+
+A Legion should not hold the Foundry simply because it can enter it. The real question is whether it can defend the structure, rotate its Infantry, respond to rallies, and collect the points if control changes.
+
+Some alliances intentionally allow the enemy to take the Imperial Foundry first. They wait for the enemy to build a point bank, then coordinate a mass teleport and a strong rally. When the building falls, the attacking players collect the released points. This strategy can defeat an alliance with a much higher passive point income.
+
+---
+
+## Prototype Sites
+
+The two Prototype Sites provide the second-highest first-control and ongoing point values.
+
+They are excellent long-term objectives because they are worth enough to matter without attracting every enemy player in the same way as the Imperial Foundry. They are also useful locations for players who still need passive Personal Arsenal Points.
+
+A common setup is to assign one strong group to each Prototype Site while keeping a separate central group for the Imperial Foundry. Whether that works depends on the depth of the roster. An alliance with only a few strong defenders should not split them so widely that none of the buildings can survive a serious rally.
+
+---
+
+## Repair Facilities
+
+There are four Repair Facilities, each positioned in a different area of the battlefield.
+
+Their point value is lower than the Foundry and Prototype Sites, but together they can create meaningful passive income. They also spread the enemy across the map.
+
+Repair Facilities are useful for secondary teams, medium-power defenders, and players who need a nearby structure to reinforce. They become dangerous when leadership tries to defend all four with thin, low-quality garrisons. A weak Repair Facility can turn into free personal points for the enemy.
+
+---
+
+## Munitions Warehouse
+
+The Munitions Warehouse produces fewer points than the central buildings, but it provides battlefield combat modifiers. The current rules screen displays a positive **15%** effect and a negative **15%** effect.
+
+Because the screenshots do not display the names of the affected stats, players should check the live in-game tooltip for the exact current wording. The important strategic point is that the building changes combat conditions, so its value can be greater than its small point income suggests.
+
+The Warehouse is most useful when the alliance is preparing to fight over the Imperial Foundry or another heavily defended objective.
+
+---
+
+## Mercenary Camp
 
 The Mercenary Camp allows the controlling alliance to dispatch up to four increasingly powerful strike teams against an enemy building.
 
-These attacks reduce the targeted building's Attack and Defense, making the Mercenary Camp useful before a coordinated rally.
+These strikes reduce the target's Attack and Defense, making the structure easier to capture. The Camp should be treated as part of the attack plan, not as an isolated side objective.
 
-### Transit Station
+A well-coordinated Legion uses the Mercenary Camp before the main rally lands. If the strike arrives too early, the enemy may have time to replace defenders or prepare a counter. If it arrives too late, the main rally may hit before the debuff is active.
 
-The Transit Station reduces the cooldown of the Advanced Teleporter by **50%**.
+---
 
-Mobility is extremely valuable in Foundry. Controlling the Transit Station allows the alliance to react faster, reinforce distant objectives, and execute coordinated point raids.
+## Transit Station
 
-### Boiler Room
+The Transit Station reduces Advanced Teleporter cooldown by **50%**.
 
-The Boiler Room increases Arsenal Point gains and provides an additional battlefield bonus.
+This is one of the most strategically important bonuses in Foundry because mobility determines how quickly an alliance can respond to a point bank, reinforce a collapsing building, or contest a newly spawned objective.
 
-It is useful when the alliance can hold it without pulling too many players away from higher-value objectives.
+The Transit Station is especially valuable for guerrilla play. An alliance that can teleport more often can repeatedly create local numerical advantages even when it is weaker overall.
 
-### Weapon Workshops
+---
+
+## Boiler Room
+
+The Boiler Room increases Arsenal Point gains and provides an additional battlefield boost.
+
+Its point income is modest, but its effect can improve the value of other objectives. It should be held when the alliance can do so without weakening the defense of more important structures.
+
+The current rules screen shows an additional **50%** modifier icon. Players should verify the exact current effect in the live in-game tooltip because the provided screenshot does not show the stat label.
+
+---
+
+## Weapon Workshops
 
 Weapon Workshops begin appearing randomly during Phase 3.
 
-Assign a mobile group to react to them quickly. Do not leave the entire alliance trapped in long marches when the workshops begin spawning.
+Their random locations make them a test of map awareness and mobility. The alliance should keep a response team free for these spawns instead of committing every march to one prolonged fight.
+
+The response team should be able to teleport, occupy the workshop, reinforce it quickly, and leave if the building is not worth overcommitting to.
 
 ---
 
-## Alliance Strategy
+## City Placement
 
-### Use One Clear Shot Caller
+City placement affects travel time, safety, reinforcement speed, and the ability to collect dropped points.
 
-Foundry becomes chaotic when multiple people issue conflicting instructions.
+Placing directly beside a target creates short marches, but it also reveals the attack and makes the city an obvious target. For coordinated point raids, players often teleport approximately three to seven city spaces away from the building. This is close enough to attack and collect quickly without stacking every city in one obvious cluster.
 
-Choose:
+Lower-power players may remain in the safe area and send reinforcements to nearby structures. This allows them to contribute without becoming easy targets for enemy city attacks.
 
-- One primary shot caller
-- One backup shot caller
-- Building captains for important objectives
-- Rally leaders
-- A mobile response group
-
-Calls should be short and specific:
-
-- Target building
-- Rally leader
-- Rally launch time
-- Teleport location
-- Whether to attack, reinforce, collect, or retreat
-
-### Do Not Defend Every Building
-
-A building is not valuable simply because your alliance currently owns it.
-
-Ask:
-
-- Can we defend it?
-- Is its point income worth the troops committed?
-- Are we leaving a more important building exposed?
-- How many points are stored there?
-- Can the enemy capture it and collect the drop?
-
-It is often better to abandon a low-value building than feed the enemy kills and lose a high-value objective elsewhere.
-
-### Focus Strength Instead of Spreading Out
-
-A common mistake is placing a few weak marches in every building.
-
-Concentrated strength is usually more effective:
-
-- Strong garrison in the primary objective
-- Secondary group on another high-value building
-- Mobile group ready to teleport
-- Lower-power players reinforcing from safer positions
-
-### Watch the Score, Not Only the Map
-
-Owning more buildings does not automatically mean winning.
-
-Monitor:
-
-- Current Alliance Arsenal Points
-- Passive points per minute
-- Stored points in contested buildings
-- Remaining battle time
-- Enemy teleport positions
-- Which alliance is collecting point drops
-
-An alliance with lower passive income can still win through well-timed captures and point collection.
+A player should avoid teleporting far from the assigned group unless leadership has called for it. One isolated city is easy to zero and difficult to support.
 
 ---
 
-## Guerrilla Warfare and Point Looting
+## Guerrilla Warfare and Point Raids
 
-One of the strongest Foundry strategies is allowing the enemy to accumulate points and then taking those points through a coordinated raid.
+Guerrilla warfare is the practice of allowing the enemy to create a valuable target and then striking at the moment when the point swing is greatest.
 
-### How to Execute a Point Raid
+The basic idea is simple. The enemy captures a valuable building and begins accumulating points. Your alliance does not waste troops in constant weak attacks. Instead, it watches the point bank, prepares teleports, and waits until enough players are ready.
 
-1. Identify an enemy building with a large stored point total.
-2. Confirm that your alliance has enough players ready.
-3. Coordinate through voice chat or a dedicated command channel.
-4. Have players teleport approximately three to seven city spaces from the target.
-5. Avoid stacking every city directly beside the building before the attack.
-6. Have a strong player launch the rally or solo attack.
-7. Send the correct rally joiners and enough infantry.
-8. As soon as the building falls, collect the dropped points immediately.
-9. Reinforce the building or retreat before the enemy counterattack.
+When the call is made, several players teleport near the target. A strong rally leader or whale attacks the building. Other players prepare to follow, reinforce, and collect. The moment the building falls, the alliance gathers the points released around it.
 
-### Using the Imperial Foundry as Bait
+The collection step is just as important as the attack. Capturing a building and then allowing the enemy to pick up the dropped points defeats the purpose of the raid.
 
-Some alliances intentionally avoid taking the Imperial Foundry immediately.
-
-They allow the enemy to:
-
-- Earn the first-control reward
-- Build up points inside the Foundry
-- Commit strong defenders
-- Become overconfident
-
-The attacking alliance then coordinates a mass teleport, captures the Foundry, and collects the accumulated points.
-
-This can win a match even when the alliance has a much lower passive point income.
-
-### First Control Versus Stored Points
-
-First-control rewards are valuable, but they are not always worth overcommitting.
-
-Compare:
-
-- The immediate first-control points
-- The expected holding time
-- Your ability to defend
-- The amount the enemy could collect after a takeover
-
-Do not build a huge point bank for the enemy unless you have a realistic defense or retake plan.
+This strategy is especially effective against alliances that focus only on passive points per minute. A team can appear far behind for much of the battle and still win through one or two major point swings.
 
 ---
 
-## Defending Buildings
+## Choosing Whether to Defend a Building
 
-### Protect Your Infantry
+A building should not be defended automatically.
 
-Infantry absorb much of the damage during extended fights.
+Leadership should consider the point income, the stored points, the quality of the current garrison, the enemy's nearby strength, the travel time for reinforcements, and the value of other open objectives.
 
-A garrison may still show plenty of total troops while its infantry is nearly depleted. Once the infantry line collapses, the remaining Lancers and Marksmen become much easier to defeat.
+Sometimes the correct decision is to abandon a building before the enemy rally arrives. Losing a low-value structure is better than feeding the enemy a large number of Personal Arsenal Points and exhausting the alliance's Infantry.
 
-Building captains should regularly check:
+At other times, a building must be held even at high cost because it contains a huge point bank or because losing it would reverse the score.
 
-- Remaining infantry
-- Total injured troops
-- Reinforcement quality
-- Incoming enemy rallies
-- Whether defenders need to rotate out
-
-Do not wait until the building is almost empty before replacing its frontline.
-
-### Reinforce From the Safe Area
-
-Lower-power players or players being heavily targeted can remain in the safe area and send reinforcements.
-
-This reduces the chance of being zeroed while still contributing troops to nearby buildings.
-
-Choose reasonably close objectives so marches do not spend too much time traveling.
-
-### Advanced Gear-Swapping Defense
-
-A strong player defending several buildings may use the following advanced technique:
-
-1. Send defensive hero marches into several buildings.
-2. Leave the defensive heroes' gear unequipped.
-3. Monitor incoming enemy marches and rallies.
-4. Equip the strongest gear onto the heroes in the building about to be attacked.
-5. Move the gear again when the next important attack appears.
-
-This avoids having to unequip gear from another active defense before moving it.
-
-The method requires intense concentration and coordination, but it is useful practice for State versus State battles.
+The best Foundry teams make these decisions deliberately instead of reacting emotionally to every red march.
 
 ---
 
-## Attacking Buildings
+## Defending Multiple Buildings
 
-### Prepare Before Launching
+A strong account may be asked to support several buildings at the same time.
 
-Before calling a rally:
+One advanced technique is to place defensive hero marches in multiple structures while leaving the heroes' gear unequipped. When an incoming rally appears, the player equips the strongest gear onto the heroes defending the building that is about to be hit.
 
-- Confirm the building is worth attacking.
-- Check its stored points.
-- Make sure collectors are nearby.
-- Confirm the rally leader has the correct gear equipped.
-- Make sure players know which heroes to join with.
-- Confirm enough infantry is available.
-- Watch for enemy reinforcements.
-- Prepare a second rally or solo attack if needed.
+This saves the time that would otherwise be spent removing gear from one active march before equipping it on another.
 
-Capturing a building without collecting its dropped points wastes much of the value of the attack.
+The technique requires close attention. The defender must track incoming marches, know which hero formation is in each building, and move the gear before impact. It is demanding, but it is also useful practice for defending multiple structures during State versus State.
 
-### Use Mercenary Camp Attacks
+---
 
-When available, use Mercenary Camp strike teams to weaken the target building before the main rally.
+## Infantry Management
 
-Coordinate the strike and rally timing so the enemy has less time to recover or replace defenders.
+Infantry are the frontline of most expedition formations and usually take the greatest number of injuries.
 
-### Avoid Feeding Personal Points
+A building can still contain millions of troops while being close to collapse because the defenders have run out of Infantry. Once the frontline is gone, the remaining Lancers and Marksmen are exposed and the garrison becomes much easier to defeat.
 
-Repeatedly attacking a building with weak, uncoordinated marches gives defenders Personal Arsenal Points.
+Building captains should watch the composition of the garrison, not only the total troop count. When Infantry are running low, they should ask for replacements before the next rally lands.
 
-Do not send random solo attacks unless they serve a clear purpose, such as:
+Players should also check their personal troop supply. A player who keeps sending marches without replacing Infantry may reach a point where every formation is badly unbalanced.
 
-- Testing the garrison
-- Forcing gear movement
-- Delaying reinforcement
-- Finishing a weakened building
-- Creating a distraction for another objective
+---
+
+## Healing and Speedups
+
+Foundry is one of the safest places to use healing speedups because troops do not permanently die and the battlefield Infirmary has unlimited capacity.
+
+That does not mean every injured troop should be healed immediately. Healing should support an objective. If the alliance is between phases or has no important fight underway, it may be better to wait for alliance helps before spending speedups.
+
+Players must pay attention to the type of speedup selected. Foundry is a common place to accidentally consume General Speedups because healing is repeated so often.
+
+Alliance leadership should encourage healing waves. When many players begin healing together, alliance helps are used efficiently and more troops return to the field at the same time.
 
 ---
 
 ## Getting Zeroed
 
-If your city is being heavily targeted, consider remaining in the safe area and contributing through reinforcements.
+A player who is heavily targeted can remain in the safe area and contribute through reinforcements instead of placing the city near a contested building.
 
-If you are zeroed or no longer have enough usable troops:
+If the city is zeroed or the player has too few usable troops remaining, leaving the battlefield may be the best option. Injured troops recover when the player leaves the field. The player can then return later, subject to the applicable re-entry rules.
 
-1. Leave the battlefield.
-2. Allow the battlefield system to restore your injured troops.
-3. Wait for the applicable re-entry cooldown.
-4. Re-enter with a full troop supply.
-5. Return to your assigned role.
+A Chief who is forcibly removed from the battle must wait **12 minutes** before re-entering.
 
-The rules specify a **12-minute cooldown** for Chiefs forced to leave mid-battle.
-
-Leaving and returning can be more useful than remaining on the field with almost no infantry or combat capacity.
+Staying on the map with almost no Infantry and no useful marches does not help the alliance. A temporary exit can restore the player's ability to contribute.
 
 ---
 
-## Reaching 180,000 Personal Points
+## Attacking Buildings Properly
 
-Every player should monitor their Personal Arsenal Points throughout the battle.
+A successful building attack begins before the rally is launched.
 
-The shown reward tiers are:
+The rally leader should confirm that the target is worth taking, check how many points are stored, ensure that collectors are nearby, and verify that enough strong joiners are ready. The alliance should know whether the plan is to hold the building after capture or simply take the point drop and retreat.
 
-| Personal Arsenal Points | Reward Tier |
-|---:|---|
-| 2,000–19,999 | Tier 1 |
-| 20,000–41,999 | Tier 2 |
-| 42,000–89,999 | Tier 3 |
-| 90,000–179,999 | Tier 4 |
-| **180,000+** | **Maximum Tier** |
+Random solo attacks usually help the defenders. They provide Personal Arsenal Points, reveal the attack direction, and may arrive without enough strength to change control.
 
-Winning and losing players both receive personal rewards, but the winning rewards are higher.
+Solo attacks are useful only when they serve a clear purpose, such as testing the garrison, finishing a weakened building, forcing a gear swap, interrupting reinforcements, or distracting the enemy from the real target.
 
-### Best Ways to Earn Personal Points
-
-When active fighting is available:
-
-- Join coordinated attacks.
-- Attack enemy buildings.
-- Join rallies led by stronger players.
-- Target fights where you can defeat meaningful troop power.
-
-Attacking awards twice as many personal kill points as defending.
-
-When fighting slows down:
-
-- Reinforce the Imperial Foundry.
-- Reinforce either Prototype Site.
-- Use buildings with the highest passive Personal Point generation.
-- Ask rally leaders to organize attacks for players below 180,000.
-- Check which alliance members still need their final reward tier.
-
-Do not assume everyone has reached the maximum. Ask before the battle ends.
+When the Mercenary Camp is available, its strike teams should be coordinated with the main attack so the target's Attack and Defense are reduced at the right moment.
 
 ---
 
-## Troop and Healing Management
+## Rallies and Rally Joiners
 
-### Monitor Infantry Constantly
+The rally leader provides the main strength of the attack, but rally joiners determine how much troop power and how many useful expedition skills enter the battle.
 
-Infantry are usually injured faster than the other troop types.
+Players should use the alliance's current Foundry joiner instructions. Hero generations change over time, so a fixed hero list becomes outdated quickly.
 
-Rotate or refill marches before they become ineffective.
+The important principles remain consistent. Joiners should use the requested lead hero, send the correct troop composition, avoid replacing stronger joiner skills with weaker ones, and join the correct rally instead of filling the wrong march.
 
-A march with plenty of Lancers and Marksmen but almost no Infantry may collapse quickly.
-
-### Use Healing Speedups Carefully
-
-Foundry is one of the better places to use stored healing speedups because:
-
-- Troops do not permanently die.
-- Treatment is free.
-- Alliance help can reduce healing time.
-- Returning troops quickly can immediately affect an objective.
-
-However:
-
-- Do not heal troops that are not needed.
-- Do not waste speedups while the alliance has no active objective.
-- Check the speedup type before confirming.
-- Avoid accidentally consuming General Speedups.
-
-Coordinate healing waves when possible so alliance members can provide help.
+A rally that is technically full may still be weak if the joiners use poor heroes, low Infantry, or incomplete troop formations.
 
 ---
 
-## Player Roles
+## Reaching 180,000 Personal Arsenal Points
+
+Every participant should aim for at least **180,000 Personal Arsenal Points**, which is the maximum personal reward threshold shown in the current rules.
+
+Players should not wait until the end of the match to begin working on their personal score. Personal points are gained naturally through useful participation: joining attacks, defending important buildings, collecting dropped points, and remaining in structures that generate passive Personal Arsenal Points.
+
+When combat slows down, players who still need points should reinforce the Imperial Foundry or one of the Prototype Sites because those buildings generate the highest passive personal income.
+
+If several players are below 180,000, strong rally leaders can organize controlled attacks so those players can join and earn kill points. Attacking is particularly effective because it awards twice as many Personal Arsenal Points as defending for the same amount of enemy power defeated.
+
+Leadership should periodically ask who still needs points. A Legion that is safely winning can often help its lower-scoring members without risking the result.
+
+---
+
+## Helping the Opposing Alliance Earn Personal Points
+
+Foundry can create useful relationships between states and alliances.
+
+When one side is winning by an overwhelming margin, the two alliances may agree to allow controlled fights so more players can reach their personal reward thresholds. These arrangements can be mutually beneficial, especially when the match result is no longer realistically in doubt.
+
+Any agreement should be specific. Both sides should understand which building may be attacked, which players need points, how long the arrangement will last, and which objectives remain protected.
+
+The winning alliance should never give away enough Alliance Arsenal Points to endanger the match.
+
+Players who want to contact someone on the opposing side should message them while they are still on the battlefield. Finding the same player afterward can be difficult.
+
+Foundry has produced friendships, future transfer recruits, and long-term diplomatic contacts between states.
+
+---
+
+## Recommended Player Roles
+
+A coordinated Legion works best when players know their responsibilities before the battle begins.
 
 ### Shot Caller
 
-The shot caller:
+The shot caller tracks the score, battle phase, point banks, incoming rallies, and available teleports. This person decides when to attack, defend, abandon, collect, or reposition.
 
-- Tracks the score and battle phases
-- Assigns objectives
-- Calls rallies and teleports
-- Decides when to defend, abandon, or raid a building
-- Prevents players from scattering
+Foundry becomes difficult when several people issue conflicting instructions. There should be one primary shot caller and one backup.
 
 ### Rally Leaders
 
-Rally leaders should:
-
-- Keep their best combat gear ready
-- Communicate rally launch times
-- Avoid launching without enough joiners
-- Coordinate point collection after a capture
-- Rotate when troops or infantry are depleted
+Rally leaders handle major building attacks and city targets. They should keep their best combat setup ready, communicate rally times clearly, and avoid launching before enough useful joiners are available.
 
 ### Building Captains
 
-Building captains should:
+A building captain watches one important structure. The captain tracks Infantry, reinforcement quality, incoming rallies, and stored points. The captain should report problems early instead of waiting until the building is already collapsing.
 
-- Track infantry and reinforcement strength
-- Report incoming marches
-- Ask for replacements before the garrison collapses
-- Confirm whether the building can still be defended
-- Tell the shot caller when abandoning is the better option
+### Mobile Response Group
 
-### Mobile Response Team
-
-The mobile team should:
-
-- Keep teleports available
-- Respond to phase changes
-- Contest Weapon Workshops
-- Support point raids
-- Collect dropped Arsenal Points
-- Reinforce objectives under sudden pressure
+The mobile group keeps teleports and marches available for sudden opportunities. It supports point raids, Phase 3 Weapon Workshops, emergency reinforcements, and point collection.
 
 ### Reinforcement Players
 
-Reinforcement players should:
+Reinforcement players support buildings from safe or nearby positions. They should replace depleted Infantry, use assigned formations, and avoid scattering their marches across unimportant targets.
 
-- Stay in safer positions when necessary
-- Send troops to assigned buildings
-- Replace depleted Infantry
-- Avoid random marches that interfere with coordinated defense
+### Point Collectors
 
----
+Point collectors position near the target of a planned capture and gather released Arsenal Points immediately. A large attack can be wasted when nobody is assigned to collect.
 
-## Communicating With the Opposing Alliance
-
-Foundry can be a good place to meet players from other states.
-
-Message opposing players while they are still on the battlefield because finding them afterward may be difficult.
-
-When one alliance is winning by a large margin, both sides may agree to help players reach personal reward thresholds without changing the final winner.
-
-Any agreement should be clear:
-
-- Which building may be attacked
-- Which players need points
-- When fighting will stop
-- How the winning alliance will protect its lead
-
-Do not give away enough Alliance Arsenal Points to risk the result.
-
-Foundry contacts can become future friends, allies, or state-transfer recruits.
+One player may perform more than one role, but the responsibilities should still be clear.
 
 ---
 
-## R4 and R5 Checklist
+## A Practical Battle Plan
 
-### Before Registration
+### Before the Match Opens
 
-- Confirm the alliance is eligible.
-- Choose the correct battle time.
-- Verify Legion 2 requirements if using it.
-- Select active players, not only the highest-power players.
-- Place the strongest and most reliable roster in Legion 1.
-- Choose 30 Combatants and up to 10 Substitutes.
-- Confirm every selected player can attend.
-- Assign a shot caller and backup.
-- Create the communication channel.
-- Publish the starting plan.
+Leadership should confirm attendance, assign players to groups, identify the primary rally leaders, and decide which buildings each group will approach during Phase 1.
 
-### Before the Battle
+Players should enter with healed troops, recalled marches, cleared Embassies, saved formations, and the alliance communication channel open.
 
-- Check attendance.
-- Confirm starting buildings and player groups.
-- Assign rally leaders.
-- Assign building captains.
-- Assign a mobile response team.
-- Review teleport and rally calls.
-- Remind everyone to heal and recall marches.
-- Remind players not to use General Speedups accidentally.
-- Confirm the target of **180,000 Personal Points**.
+### Phase 1
 
-### During the Battle
+The Legion should establish control without spreading too thin.
 
-- Announce each new phase.
-- Track the score and points per minute.
-- Watch stored points in major buildings.
-- Call coordinated teleports.
-- Stop random solo attacks.
-- Monitor infantry levels.
-- Rotate zeroed or depleted players.
-- Check which members still need personal points.
-- Prepare for late Weapon Workshop spawns.
-- Protect the lead instead of chasing unnecessary fights.
+The Prototype Sites are valuable early objectives. The Transit Station is useful for later mobility. Repair Facilities can create additional passive income, but they should not drain the main groups of their strongest defenders.
 
-### Before Time Expires
+Leadership should begin watching the enemy's habits immediately. Some alliances defend every building. Others concentrate around one side of the map. This information determines the best Phase 2 approach.
 
-- Confirm the current win condition.
-- Defend buildings containing large stored point totals.
-- Collect all available dropped points.
-- Stop risky attacks if the alliance is safely ahead.
-- Organize final rallies for players below 180,000 when safe.
-- Watch for a last-minute enemy mass teleport.
+### Phase 2
+
+When the Imperial Foundry opens, the alliance should decide whether it intends to take it immediately, contest it after the enemy builds points, or use it as a distraction while securing the rest of the map.
+
+The Mercenary Camp and Munitions Warehouse should support the main fight. The Transit Station becomes more valuable as both sides begin using teleports aggressively.
+
+This is often the best time for coordinated guerrilla attacks because the enemy is focused on the center.
+
+### Phase 3
+
+A mobile team should respond to Weapon Workshop spawns while the main groups continue protecting the important point banks.
+
+Leadership should avoid chasing every new objective. The score, remaining time, and value of existing buildings should determine whether a workshop is worth contesting.
+
+### Final Minutes
+
+The last part of Foundry is about protecting the actual win condition.
+
+An alliance that is ahead should stop taking unnecessary risks. It should defend buildings with large point banks, collect every available drop, and prevent a last-minute enemy teleport.
+
+An alliance that is behind needs a point swing, not random kills. It should identify the most valuable enemy building, gather teleports, and prepare one coordinated attack with collectors ready.
+
+Players below 180,000 Personal Arsenal Points may still be helped, but not at the cost of the match.
 
 ---
 
-## Common Mistakes
+## Common New-Player Mistakes
 
-- Registering players who do not attend
-- Entering with injured troops or outside marches
-- Having multiple conflicting shot callers
-- Spreading strong players across too many buildings
-- Holding buildings that cannot be defended
-- Ignoring point drops after a capture
-- Chasing enemy cities instead of objectives
-- Running out of Infantry
-- Sending weak solo attacks into a strong garrison
-- Using General Speedups by accident
-- Forgetting to use Mercenary Camp strikes
-- Ignoring the Transit Station's teleport advantage
-- Remaining on the field after being zeroed and ineffective
-- Finishing below 180,000 Personal Arsenal Points
-- Giving up the win while informally helping the opponent earn points
+### Chasing Enemy Cities
+
+Attacking cities can earn personal points, but it does not directly win the match. A player who spends the entire battle chasing weak cities may miss the capture that decides the score.
+
+### Entering Unprepared
+
+A player with a march outside the city, injured troops in the normal Infirmary, a burning Barricade, or outside reinforcements cannot enter. This can cause the Legion to begin short-handed.
+
+### Defending Everything
+
+Trying to hold every structure spreads the roster too thin. Important buildings collapse because the alliance committed strong marches to low-value objectives.
+
+### Ignoring Point Drops
+
+Capturing the building is only half of the action. If the enemy gathers the released points, the capture may produce little or no score advantage.
+
+### Ignoring Infantry
+
+Total troop count can hide a collapsing frontline. A garrison with almost no Infantry is much weaker than it appears.
+
+### Wasting Teleports
+
+Using a teleporter for a minor adjustment may leave the player unable to join the decisive attack later.
+
+### Random Solo Attacks
+
+Uncoordinated attacks feed the defenders personal points and rarely change control.
+
+### Forgetting Personal Rewards
+
+Players sometimes finish below 180,000 even though the Legion had time to help them reach the maximum tier.
+
+### Using General Speedups
+
+Repeated healing makes it easy to select the wrong speedup type. Players should check before confirming.
+
+---
+
+## Guidance for R4 and R5
+
+R4 and R5 leadership shapes Foundry before the battle begins.
+
+During registration, leadership should build an active roster, verify attendance, assign the strongest reliable group to Legion 1, and keep capable substitutes ready. The registered roster should reflect who will actually play.
+
+Before the battle, leadership should publish the starting plan, assign shot callers, name rally leaders, establish building groups, and explain the communication method.
+
+During the match, leadership should keep calls short and decisive. Players need to know the target, the rally leader, the teleport location, and whether the objective is to hold, collect, or retreat.
+
+Leadership should also track personal scores. Helping members reach 180,000 improves alliance morale and rewards without necessarily compromising the win.
+
+The final responsibility is protecting the result. When the alliance is ahead, leadership must resist unnecessary fights. When the alliance is behind, it must create a coordinated point swing instead of allowing the team to scatter.
 
 ---
 
 ## Frequently Asked Questions
 
-### Can troops die permanently in Foundry?
+### Do troops permanently die in Foundry?
 
-No. Troops cannot permanently die during Foundry Battle.
+No. Foundry does not cause permanent troop deaths.
 
 ### What happens to injured troops?
 
-They enter the battlefield Infirmary. Capacity is unlimited, treatment is free, and injured troops recover when the Chief leaves the battlefield.
+They enter the battlefield Infirmary, which has unlimited capacity. Treatment is free, and injured troops recover when the Chief leaves the battlefield.
 
-### Can a player join both Legions?
+### What is the difference between Alliance and Personal Arsenal Points?
 
-No. A player can only be selected for one Legion as either a Combatant or Substitute.
+Alliance Arsenal Points determine the winner. Personal Arsenal Points determine each player's reward tier.
 
-### Can a new alliance member participate after registration closes?
+### Do kills give Alliance Arsenal Points?
 
-No. Members who join after registration ends cannot participate or spectate.
+No. Defeating enemy power awards Personal Arsenal Points, not Alliance Arsenal Points.
 
-### How is the winner decided?
+### Is attacking better than defending for personal points?
 
-The alliance with the most Alliance Arsenal Points when time expires wins.
-
-### What happens if the score is tied?
-
-The alliance that defeated more enemy troop power wins.
-
-### Do troop kills award Alliance Arsenal Points?
-
-No. Troop kills award Personal Arsenal Points only.
-
-### Is attacking or defending better for personal points?
-
-Attacking. It awards 80 points per 10,000 enemy Troop Power defeated, while defending awards 40.
+Attacking awards 80 Personal Arsenal Points per 10,000 power defeated. Defending awards 40 for the same amount.
 
 ### What is the maximum personal reward threshold?
 
-180,000 Personal Arsenal Points.
+The maximum personal tier begins at 180,000 Personal Arsenal Points.
 
-### What should I do if I get zeroed?
+### How many players can be registered?
 
-Leave the battlefield, wait for the re-entry cooldown, and return with restored troops.
+Each Legion may register up to 30 Combatants and 10 Substitutes.
 
-### Do normal bonuses work inside Foundry?
+### What is the minimum number of players?
+
+A Legion needs at least 15 registered players to enter matchmaking.
+
+### Can one player join both Legions?
+
+No. A player may only be registered in one Legion and one role.
+
+### Is troop power used for matchmaking?
+
+Total troop power is not listed as a matchmaking factor. Matchmaking considers Chief Gear Power, Hero Gear Power, Battle Tech Power, Pet Power, Expert Power, Furnace Level, and Troop Levels for the top 20 registered Chiefs.
+
+### What happens when no opponent is found?
+
+The Legion automatically wins and receives the highest-level prizes.
+
+### What happens if the final score is tied?
+
+The alliance that defeated more enemy power wins.
+
+### What should I do after being zeroed?
+
+Leave the battlefield if you can no longer contribute, allow your injured troops to recover, and return later under the applicable re-entry rules. A forced exit creates a 12-minute cooldown.
+
+### Can a new member join after registration?
+
+A member who joins after registration has ended cannot participate in that Foundry Battle or receive its alliance participation rewards.
+
+### Do normal account bonuses work?
 
 Yes. Tech, VIP, Chief Gear, and Skin bonuses remain active.
 
 ---
 
-## Final Advice
+## Final Strategy
 
-Foundry is won through coordination, not individual power alone.
+Foundry is not won by the alliance that looks strongest on the map. It is won by the alliance that converts its strength into the correct points.
 
-A disciplined alliance should:
+A successful Legion understands the difference between Alliance and Personal Arsenal Points, protects its Infantry, saves teleports for important moments, attacks buildings with valuable point banks, assigns players to collect the drops, and refuses to waste troops on objectives that do not matter.
 
-- Concentrate strength
-- Defend only worthwhile objectives
-- Track Infantry
-- Use teleports as a team
-- Attack buildings with stored points
-- Collect every dropped point
-- Help members reach 180,000 Personal Points
-- Protect the final score instead of chasing unnecessary fights
+Passive points per minute create pressure, but they do not guarantee victory. A disciplined alliance can remain behind for much of the match, execute one coordinated capture, collect the released points, and win.
 
-The alliance with the highest passive point income does not always win. A well-timed capture and coordinated point raid can reverse the entire battle.
+The most important rule is simple: **fight for the score, not for the appearance of control.**
