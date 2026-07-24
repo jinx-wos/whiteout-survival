@@ -1,5 +1,7 @@
-# Whiteout Survival Strategy Guides
+# Whiteout Survival Wiki
 
-Welcome to the **Whiteout Survival guide library**.
+Welcome to the **Whiteout Survival Wiki**.
 
-This site contains strategy guides, event walkthroughs, and alliance information designed to help players improve and coordinate effectively.
+This community-maintained wiki collects information about heroes, gear, experts, pets, events, alliances, research, island content, and general game systems.
+
+Use the sidebar to browse each section or search the wiki for a specific topic.
