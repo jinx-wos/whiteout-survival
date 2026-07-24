@@ -1,6 +1,6 @@
-# Generation 3 Heroes
+# Generation 14 Heroes
 
-> This page is ready to be updated with current Generation 3 hero information.
+> This page is ready to be updated with current Generation 14 hero information.
 
 ## Heroes
 
