@@ -119,6 +119,35 @@ During the Registration Phase, alliance leadership select the battle time for ea
 | ---------------------- | --------------------- | -------: |
 | Wednesday at 00:00 UTC | Thursday at 23:59 UTC |   2 days |
 
+### The Two-Legion System
+
+An alliance can register up to two Legions for Foundry Battle. Each Legion has its own roster, battle time, opponent, and matchmaking calculation.
+
+Legion 1 is available by default. Legion 2 must be unlocked by meeting the following alliance requirements:
+
+| Requirement | Legion 2 Requirement |
+|---|---|
+| Alliance Level | Level 6 or higher |
+| Weekly active members | At least 40 alliance members must log in during the current week |
+| Members who leave | Players who leave the alliance are removed from the weekly active-member count |
+
+Each Legion has the same registration requirements and roster limits but are treated separately from each other:
+
+| Roster Rule | Requirement |
+|---|---|
+| Minimum registered players | 15 per Legion |
+| Maximum Combatants | 30 per Legion |
+| Maximum Substitutes | 10 per Legion |
+| Maximum total roster | 40 per Legion |
+| Legion assignment | A player may only be registered in one Legion |
+| Role assignment | A player may only be registered as either a Combatant or Substitute |
+
+The minimum roster requirement is checked separately for each Legion. For example, Legion 1 can enter matchmaking with 15 registered players even if Legion 2 does not have enough players to qualify.
+
+Legion 1 has greater importance because its result determines the alliance’s Foundry ranking and alliance-wide rewards. Legion 2 provides additional members with an opportunity to participate, but its result does not affect the alliance’s overall ranking.
+
+Personal rewards are calculated separately for each registered player based on their Personal Arsenal Points and whether their Legion wins or loses.
+
 ### Legion Registration
 
 An alliance may register up to two Legions. Each Legion competes in a separate battle and may be assigned its own battle time.
@@ -343,49 +372,6 @@ If both alliances finish with the same number of Alliance Arsenal Points, the wi
 
 A Legion that cannot be matched with an opponent does not enter a normal battle. It receives an automatic victory and is awarded the highest-level prizes.
 
----
-
-## The Two-Legion System
-
-An alliance can register up to two Legions. Each Legion is treated as a separate roster for matchmaking and participation.
-
-Legion 1 is available by default. Legion 2 must be unlocked by meeting the game's alliance requirements. According to the in-game rules, the alliance must be at least **Alliance Level 6** and must have at least **40 members who have logged in during the current week**. Members who leave the alliance reduce that weekly active-member count.
-
-Each Legion may contain up to **30 Combatants** and **10 Substitutes**. A player may only be registered in one Legion and may only occupy one role. A player cannot be listed as both a Combatant and a Substitute, and cannot register for both Legions.
-
-A Legion needs at least **15 registered players** to enter matchmaking. This requirement is checked separately for Legion 1 and Legion 2.
-
-Alliance-wide rewards are based on the result of **Legion 1**. Personal rewards are based on each participating player's Personal Arsenal Points and whether that player's Legion won or lost.
-
----
-
-## How Matchmaking Works
-
-Matchmaking uses the strength of the top 20 registered Chiefs in the Legion.
-
-The in-game rules list the following factors:
-
-- Chief Gear Power
-- Hero Gear Power
-- Battle Tech Power
-- Pet Power
-- Expert Power
-- Furnace Level
-- Troop Levels
-
-**Total troop power is not a listed matchmaking factor.** Troop power represents the combined power of all troops owned by a player, while Foundry matchmaking considers the listed progression systems and troop levels instead of simply counting the player's full troop inventory.
-
-The game first attempts to match Legions registered for the same battle time. When an appropriate opponent is not available in that exact slot, matchmaking may use nearby time slots. The final battle time may be taken from either alliance's selected time or from a midpoint between the two choices.
-
-When the game cannot find any suitable opponent for a Legion, that Legion automatically wins and receives the highest-level prizes.
-
-### What This Means for Roster Building
-
-Because only the top 20 registered Chiefs are used for matchmaking strength, the strongest twenty players have the greatest effect on the opponent the Legion receives. The remaining registered players still matter greatly during the battle, but they do not influence matchmaking in the same way.
-
-Leadership should not attempt to manipulate the roster blindly. Removing useful strong players can weaken the team more than it helps matchmaking. The better approach is to register an honest, active roster and make sure the strongest twenty players are people who will actually attend.
-
----
 
 ## Preparing to Enter the Battlefield
 
