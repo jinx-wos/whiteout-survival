@@ -55,6 +55,164 @@ The Foundry Battle cycle begins every other Monday at 00:00 UTC and concludes af
 
 ---
 
+## Voting Phase
+
+The Voting Phase is the first phase of the Foundry Battle cycle. It allows alliance members to indicate which battle time they are most likely to attend. The results help alliance leadership plan the Legion schedules and build attendance-based rosters during the Registration Phase.
+
+### Schedule
+
+| Starts              | Ends                 | Duration |
+| ------------------- | -------------------- | -------: |
+| Monday at 00:00 UTC | Tuesday at 23:59 UTC |   2 days |
+
+The alliance must be ranked within the top 20 on the Alliance Power Leaderboard before the Voting Phase begins to participate in that Foundry Battle cycle.
+
+### How Voting Works
+
+Every alliance member may vote for their preferred battle time(s). Members should choose times when they can realistically attend the full one-hour battle.
+
+### Available Voting Times
+
+| Battle Times |
+| ------------------ |
+| 02:00 UTC          |
+| 07:00 UTC          |
+| 12:00 UTC          |
+| 14:00 UTC          |
+| 19:00 UTC          |
+
+### Voting Does Not Set the Final Battle Time
+
+Voting gives alliance leadership an estimate of when alliance members are available. The option with the most votes is not selected automatically, and voting does not register a player as a Combatant or Substitute, reserve a roster position, or guarantee participation.
+
+During the Registration Phase, R4 and R5 select the final battle time for each Legion and build the rosters. They may choose a different time based on confirmed attendance, player strength, roster balance, and the number of players available for each Legion.
+
+Legion 1 and Legion 2 can be scheduled for different battle times.
+
+### What Members Should Do
+
+Members should vote for a battle time when they expect to be available for the full one-hour match.
+
+To vote:
+
+- Navigate to **Events → Foundry Battle → Vote**
+- Select your preferred battle time(s) and confirm your vote.
+
+***Note:** Voting does not confirm participation. Players must still request a roster position or communicate their availability during the Registration Phase. R4 or R5 must then assign them as a Combatant or Substitute in one of the Legions.*
+
+### How Leadership Should Use the Results
+
+Leadership should treat the voting results as a rough estimate of availability, not a confirmed attendance list. Some members may vote only to clear the red notification from Events → Foundry Battle, so a vote does not always mean the player intends to participate.
+
+When selecting battle times and building rosters, alliance leadership should prioritize players who are reliable, communicate clearly, and consistently attend scheduled events. The vote totals can help identify which times are most likely to support dependable Legion rosters.
+
+The goal is not to select the time with the most votes. It is to choose the time or times that produce the strongest rosters with the highest expected attendance.
+
+---
+
+## Registration Phase
+
+During the Registration Phase, alliance leadership select the final battle time for each Legion and build the official rosters. This is the point when members must communicate and confirm their availability to alliance leadership so they can be registered to battle.
+
+***Note:** Voting does not guarantee a member is registered. A player must be selected as a Combatant or Substitute before registration closes to participate.*
+
+### Schedule
+
+| Starts                 | Ends                  | Duration |
+| ---------------------- | --------------------- | -------: |
+| Wednesday at 00:00 UTC | Thursday at 23:59 UTC |   2 days |
+
+### Legion Registration
+
+An alliance may register up to two Legions. Each Legion competes in a separate battle and may be assigned its own battle time.
+
+| Roster Rule           | Requirement                                   |
+| --------------------- | --------------------------------------------- |
+| Minimum roster        | 15 registered players per Legion              |
+| Combatants            | Up to 30 per Legion                           |
+| Substitutes           | Up to 10 per Legion                           |
+| Total roster capacity | Up to 40 players per Legion                   |
+| Legion assignments    | A player may only be registered in one Legion |
+
+Alliance leadership must chose a battle time for each legion participating. Alliance leadership can change battle time, player assigned legions, and move players between Combatant and Substitute until registration closes. After the deadline (Thursday at 23:59 UTC), the legion rosters are locked and used for matchmaking.
+
+### Difference Between Combatants and Substitutes
+
+| Role       | How It Works                                                                                                       |
+| ---------- | ------------------------------------------------------------------------------------------------------------------ |
+| Combatant  | A primary roster member who may enter the battlefield as soon as the battle begins                                 |
+| Substitute | A reserve roster member who may enter beginning three minutes after the battle starts, provided space is available |
+
+A maximum of 30 players from each alliance are allowed on the battlefield. Substitutes are useful when registered Combatants are late or do not attend, but being listed as a Substitute does not guarantee that space will become available.
+
+***Note:** Both Combatants and Substitutes are included in the roster and are eligible for the Legion’s victory or defeat rewards.**
+
+### Battle Requests
+
+Alliance members can send a Battle Request to show leadership which Legion and battle time they are available to attend.
+
+To send a request:
+
+Navigate to **Events → Foundry Battle → Select preferred Legion (based on battle time) → Deployment → Send Battle Request**
+
+Battle Requests are more useful than Voting Phase results because they usually represent a genuine intention to participate. However, sending a request does not automatically add the player to the roster. Alliance leadership must still assign them as a Combatant or Substitute before registration closes.
+
+Players should only send a Battle Request if they expect to attend for the full hour of battle.
+
+### What Players Should Do
+
+Players who want to participate should submit a Battle Request and/or clearly communicate to alliance leadership which battle time they can attend. They should also check they are registered correctly before registration closes.
+
+Players should also notify leadership immediately if their availability changes. This gives leadership a chance to replace them or reorganize the Legions before the roster locks.
+
+***Note:** Once registration phase ends, the rosters for each legion cannot be modified.**
+
+### What Leadership Should Do
+
+Ideally, alliance leadership should select a battle time for each Legion as soon as registration phase begins. Voting totals can guide the decision, but confirmed attendance should carry more weight than the raw number of votes. Once leadership has selected battle times for each legion, they should inform all members through a Alliance Notice or Alliance Direct Message.
+
+Quick Template Message:
+```
+Foundry Registration Phase has started!
+
+Each Legion's Battle Times:
+Legion 1 - BATTLE_TIME_IN_UTC
+Legion 2 - BATTLE_TIME_IN_UTC
+
+Please send a Battle Request if you are available on Sunday to join the Foundry Battle!
+```
+
+Leadership should then build Legion 1 around the alliance’s strongest reliable players. Legion 1 is the priority because its result determines the alliance’s Foundry tier and Alliance Ranking Rewards. Legion 2 gives additional members an opportunity to participate and earn personal rewards, but its result does not determine the alliance’s overall Foundry ranking.
+
+Combatant positions should go to players who are expected to arrive on time. Substitute positions are better suited to players with uncertain availability, players who may arrive late, or backup members who can enter when space becomes available.
+
+Before registration closes, leadership should confirm that:
+
+* Each active Legion has at least 15 registered players
+* Every player is assigned to the correct Legion (or not assigned to either legion if they aren't availble)
+* Both Legions have the intended battle time
+* Combatant positions are filled by expected attendees
+* Substitute assignments provide realistic backup coverage
+* Anyone who can no longer attend has been removed or reassigned
+
+***Note:** Leadership should not feel pressured to fill all 30 combatant spots and 10 substitute spots. The goal is to register members that will attend the battle. Registering members who won't be available for the battle or who frequently miss events will skew matchmaking and make the battle more difficult to win if they don't attend.**
+
+### Registration and Matchmaking
+
+Registration decisions directly affect the opponent a Legion receives. Matchmaking uses the combined matchmaking power of the 20 strongest registered players across both Combatants and Substitutes. Substitutes are not excluded simply because they are reserve players.
+
+This means a powerful player who is registered but does not attend can make the matchup harder without contributing during the battle. Leadership should not add strong members merely to fill the roster or because they voted. Reliable attendance is more valuable than strength that never enters the battlefield.
+
+Registering more than 20 players does not automatically increase the matchmaking calculation. However, any additional player strong enough to enter the Legion’s top 20 will affect it. The safest approach is to register the players who are genuinely expected to attend.
+
+### Before Registration Closes
+
+The roster shown at Thursday at 23:59 UTC becomes the Legion used for matchmaking. Leadership should complete a final review shortly before the deadline rather than assuming earlier assignments are still accurate.
+
+Once the registration phase ends, battle times and roster assignments are locked. Players should be aware and take note of their Legion and exact battle time before the Battle Phase begins.
+
+---
+
 ## What Determines the Winner
 
 The alliance with the most **Alliance Arsenal Points** when the battle timer reaches zero wins.
@@ -78,20 +236,6 @@ Each Legion may contain up to **30 Combatants** and **10 Substitutes**. A player
 A Legion needs at least **15 registered players** to enter matchmaking. This requirement is checked separately for Legion 1 and Legion 2.
 
 Alliance-wide rewards are based on the result of **Legion 1**. Personal rewards are based on each participating player's Personal Arsenal Points and whether that player's Legion won or lost.
-
----
-
-## Alliance and Player Eligibility
-
-Only the **top 20 alliances on the Power Leaderboard** before the event begins are eligible to register for Foundry Battle.
-
-The Alliance Leader and R4 officers handle registration, select the battle time, assign players to Legions, and decide which members are Combatants or Substitutes. Members below R4 may request a Legion and may change their request before registration closes, but the final roster is controlled by alliance leadership.
-
-A player must have joined the alliance before registration and must have at least a **Level 16 Furnace** to be eligible. Members who have been offline for five days or longer cannot be dispatched unless they had already been selected before reaching that inactivity threshold.
-
-Members who join the alliance after registration has ended cannot participate in that Foundry Battle and cannot receive the alliance participation rewards for that registration period.
-
-The game also tracks Foundry participation history for ranking purposes. If an alliance fails to register for Foundry Battle for three consecutive seasons or longer, it will not appear on the Win Ratio Ranking.
 
 ---
 
