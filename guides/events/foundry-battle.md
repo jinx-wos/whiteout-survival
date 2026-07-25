@@ -14,9 +14,7 @@ Once a building is captured, it accumulates temporary Arsenal Points. When the e
 
 Foundry Battle is all about power and coordination. Disciplined attendance, assigned teams, clear building ownership, controlled teleport use, timely reinforcements, and rapid collection of dropped points often determine the winner. Alliances that chase personal combat points or move randomly around the map may win individual fights while still losing the overall battle. The strongest approach is to divide players into dedicated attack, reinforcement, and collection roles and manage the battlefield as a point economy rather than a simple brawl.
 
----
-
-## Foundry Battle at a Glance
+### Foundry Battle at a Glance
 
 
 | Topic                          | Rule                                                                                                                                                                                        |
@@ -40,9 +38,8 @@ Foundry Battle is all about power and coordination. Disciplined attendance, assi
 | Leaving the battlefield        | Leaving begins a 12-minute cooldown before the player may re-enter                                                                                                                          |
 | No matchmaking opponent        | The Legion receives an auto-advance; the alliance receives highest alliance ranking rewards, while registered Combatants and Substitutes receive the designated auto-advance personal rewards |
 
----
 
-## Foundry Battle Event Phases
+### Foundry Battle Event Phases
 
 | Phase              | Starts                             | Ends                             | High-Level Overview                                                                                                                                                                                                  |
 | ------------------ | ---------------------------------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
