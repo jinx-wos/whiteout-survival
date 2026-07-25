@@ -364,7 +364,7 @@ The alliance receives the highest-level Alliance Ranking Rewards (if Legion 1 wa
 
 ## Battle Phase
 
-During the Battle Phase, two matched Legions compete for control of the Foundry battlefield. The objective is to earn more **Alliance Arsenal Points** than the opposing Legion before the one-hour timer expires.
+During the Battle Phase, two matched Legions compete for control of the Foundry battlefield. The objective is to earn more Alliance Arsenal Points than the opposing Legion before the one-hour timer expires.
 
 ### Schedule
 
@@ -372,7 +372,7 @@ During the Battle Phase, two matched Legions compete for control of the Foundry 
 |---|---|---:|
 | Sunday at the Legion's selected battle time | One hour after the battle begins | 1 hour |
 
-Legion 1 and Legion 2 may battle at different times and face different opponents.
+***Note:** Legion 1 and Legion 2 may battle at different times.*
 
 ### Entering the Battlefield
 
