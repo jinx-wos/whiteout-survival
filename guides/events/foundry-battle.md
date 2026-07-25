@@ -172,7 +172,7 @@ Quick Template Message:
 ```
 Foundry Registration Phase has started!
 
-Each Legion's Battle Times:
+Each Legion's Battle Time:
 Legion 1 - BATTLE_TIME_IN_UTC
 Legion 2 - BATTLE_TIME_IN_UTC
 
