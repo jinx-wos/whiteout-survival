@@ -112,7 +112,7 @@ The goal is not to select the time with the most votes. It is to choose the time
 
 ## Registration Phase
 
-During the Registration Phase, alliance leadership select the final battle time for each Legion and build the official rosters. This is the point when members must communicate and confirm their availability to alliance leadership so they can be registered to battle.
+During the Registration Phase, alliance leadership select the battle time for each Legion and build the official rosters. This is the point when members must communicate and confirm their availability to alliance leadership so they can be registered to battle.
 
 ***Note:** Voting does not guarantee a member is registered. A player must be selected as a Combatant or Substitute before registration closes to participate.*
 
