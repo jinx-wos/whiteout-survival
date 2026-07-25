@@ -372,7 +372,7 @@ During the Battle Phase, two matched Legions compete for control of the Foundry 
 |---|---|---:|
 | Sunday at the Legion's selected battle time | One hour after the battle begins | 1 hour |
 
-***Note:** Legion 1 and Legion 2 may battle at different times.*
+****Note:** Legion 1 and Legion 2 may battle at different times.**
 
 ### Entering the Battlefield
 
