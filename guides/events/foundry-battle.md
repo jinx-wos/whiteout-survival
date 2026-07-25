@@ -362,6 +362,122 @@ The alliance receives the highest-level Alliance Ranking Rewards (if Legion 1 wa
 
 ---
 
+## Battle Phase
+
+During the Battle Phase, two matched Legions compete for control of the Foundry battlefield. The objective is to earn more **Alliance Arsenal Points** than the opposing Legion before the one-hour timer expires.
+
+### Schedule
+
+| Starts | Ends | Duration |
+|---|---|---:|
+| Sunday at the Legion's selected battle time | One hour after the battle begins | 1 hour |
+
+Legion 1 and Legion 2 may battle at different times and face different opponents.
+
+### Entering the Battlefield
+
+Combatants may enter as soon as the battle begins. Substitutes may begin entering after the first three minutes when fewer than 30 members of their Legion are currently inside.
+
+Before entering, players must recall or complete any troop activity that prevents battlefield entry. Troops cannot be:
+
+- Injured in the Infirmary
+- Gathering resources
+- Garrisoning or reinforcing
+- Attacking or marching outside the City
+
+Players with troops in the Enlistment Office may still participate.
+
+### How the Battle Is Won
+
+The Legion with the most **Alliance Arsenal Points** when the timer expires wins.
+
+Alliance Arsenal Points are primarily earned by:
+
+- Capturing battlefield buildings
+- Maintaining control of buildings
+- Collecting dropped Arsenal Supplies
+- Gathering from Weapon Workshops
+
+Defeating enemy troops contributes to Personal Arsenal Points and may determine the winner if both Legions finish with the same number of Alliance Arsenal Points.
+
+### Battlefield Stages
+
+The battlefield develops in three stages, with additional objectives becoming available as the battle progresses.
+
+| Stage | Available Objectives | High-Level Focus |
+|---|---|---|
+| Stage 1 | Prototype Sites, Repair Facilities, Boiler Room and Transit Station | Secure the opening buildings, establish map control and begin generating points |
+| Stage 2 | Imperial Foundry, Munitions Warehouse and Mercenary Camp | Contest the central and special-purpose buildings while defending earlier positions |
+| Stage 3 | Weapon Workshops | Gather from newly revealed workshops while continuing to capture buildings and collect dropped points |
+
+Each stage creates new scoring opportunities. Alliances must be prepared to move players as objectives unlock instead of keeping everyone at their original positions for the entire battle.
+
+### Buildings and Arsenal Supplies
+
+Controlled buildings generate Alliance Arsenal Points over time. Some of those points are stored temporarily inside the building.
+
+When the opposing Legion captures a building, its stored temporary points are released nearby as **Arsenal Supplies**. Either Legion can collect them, including the alliance that just lost the building.
+
+This means losing a building does not automatically mean losing every stored point. Players who are positioned nearby may still recover the supplies before the enemy collects them.
+
+### Troop Losses and Healing
+
+Troops do not die permanently during Foundry Battle. Injured troops are sent to the Battlefield Infirmary, which has unlimited capacity and provides free treatment.
+
+Players may heal throughout the battle or temporarily leave the battlefield to recover. Leaving begins a **12-minute re-entry cooldown**, so this should be timed carefully. A player who leaves too late may not have enough time to return before the battle ends.
+
+All remaining battlefield injuries are restored after the event.
+
+### Leaving and Re-entering
+
+Leaving the battlefield does not remove the player from the registered roster, but the player must wait 12 minutes before returning.
+
+Leaving can be useful when most of a player's troops are injured and normal treatment would take too long. However, it temporarily reduces the number of active players available to the Legion.
+
+Players should notify leadership before leaving whenever possible so teams and defensive assignments can be adjusted.
+
+### What Players Should Do
+
+Players should enter on time and follow their assigned team, building or battlefield role. Foundry Battle is a coordinated point-scoring event, not simply a competition to defeat the most enemy troops.
+
+Players should:
+
+- Follow leadership calls and assigned objectives
+- Join rallies and reinforce controlled buildings
+- Watch for Arsenal Supplies when buildings change control
+- Gather from Weapon Workshops when assigned
+- Manage injured troops before their march strength becomes ineffective
+- Communicate before leaving the battlefield
+- Prioritize the Legion's score over personal point farming
+
+Players should also monitor alliance chat or the designated voice channel throughout the battle because assignments may change as buildings unlock or control shifts.
+
+### What Leadership Should Do
+
+Leadership should enter the battle with clear teams, assignments and communication expectations already established.
+
+R4 and R5 should:
+
+- Confirm attendance before the battle begins
+- Assign rally and garrison leaders
+- Divide players between attack, defense, reinforcement and collection roles
+- Assign opening buildings before players enter
+- Announce when later-stage objectives become available
+- Track dropped Arsenal Supplies and Weapon Workshops
+- Coordinate troop recovery and temporary battlefield exits
+- Reassign players when attendance or battlefield conditions change
+- Keep the alliance focused on Alliance Arsenal Points
+
+Leadership should avoid allowing every player to move independently. Even a powerful Legion can lose when players chase personal combat points while the opposing Legion controls the scoring objectives.
+
+### End of the Battle
+
+The battle ends immediately when the one-hour timer expires. The Legion with the higher Alliance Arsenal Point total is declared the winner.
+
+Players receive personal rewards based on their Personal Arsenal Points and the result of their Legion. Legion 1's result also determines the alliance's Foundry ranking and alliance-wide rewards.
+
+---
+
 ## What Determines the Winner
 
 The alliance with the most **Alliance Arsenal Points** when the battle timer reaches zero wins.
