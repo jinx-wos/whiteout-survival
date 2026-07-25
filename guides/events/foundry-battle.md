@@ -95,7 +95,8 @@ To vote:
 - Navigate to **Events → Foundry Battle → Vote**
 - Select your preferred battle time(s) and confirm your vote.
 
-***Note:** Voting does not confirm participation. Players must still request a roster position or communicate their availability during the Registration Phase. R4 or R5 must then assign them as a Combatant or Substitute in one of the Legions.*
+> [!IMPORTANT]
+> Voting does not confirm participation. Players must still request a roster position or communicate their availability during the Registration Phase. R4 or R5 must then assign them as a Combatant or Substitute in one of the Legions.
 
 ### How Leadership Should Use the Results
 
@@ -111,7 +112,8 @@ The goal is not to select the time with the most votes. It is to choose the time
 
 During the Registration Phase, alliance leadership select the battle time for each Legion and build the official rosters. This is the point when members must communicate and confirm their availability to alliance leadership so they can be registered to battle.
 
-***Note:** Voting does not guarantee a member is registered. A player must be selected as a Combatant or Substitute before registration closes to participate.*
+> [!IMPORTANT]
+> Voting does not guarantee a member is registered. A player must be selected as a Combatant or Substitute before registration closes to participate.
 
 ### Schedule
 
@@ -171,8 +173,6 @@ Alliance leadership must chose a battle time for each legion participating. Alli
 
 A maximum of 30 players from each alliance are allowed on the battlefield. Substitutes are useful when registered Combatants are late or do not attend, but being listed as a Substitute does not guarantee that space will become available.
 
-***Note:** Both Combatants and Substitutes are included in the roster and are eligible for the Legion’s victory or defeat rewards.**
-
 ### Battle Requests
 
 Alliance members can send a Battle Request to show leadership which Legion and battle time they are available to attend.
@@ -191,7 +191,8 @@ Players who want to participate should submit a Battle Request and/or clearly co
 
 Players should also notify leadership immediately if their availability changes. This gives leadership a chance to replace them or reorganize the Legions before the roster locks.
 
-***Note:** Once registration phase ends, the rosters for each legion cannot be modified.**
+> [!WARNING]
+> Once registration phase ends, the rosters for each legion are locked and cannot be modified.
 
 ### What Leadership Should Do
 
@@ -221,7 +222,8 @@ Before registration closes, leadership should confirm that:
 * Substitute assignments provide realistic backup coverage
 * Anyone who can no longer attend has been removed or reassigned
 
-***Note:** Leadership should not feel pressured to fill all 30 combatant spots and 10 substitute spots. The goal is to register members that will attend the battle. Registering members who won't be available for the battle or who frequently miss events will skew matchmaking and make the battle more difficult to win if they don't attend.**
+> [!TIP]
+> Leadership should not feel pressured to fill all 30 combatant spots and 10 substitute spots. The goal is to register members that will attend the battle. Registering members who won't be available for the battle or who frequently miss events will skew matchmaking and make the battle more difficult to win if they don't attend.
 
 ### Registration Strategy
 
@@ -312,7 +314,8 @@ Players should also review alliance instructions for:
 - Rally and garrison leaders (who will create rallies to re-take buildings?)
 - Communication channels (using in-game chat or a 3rd party voice channel to communication commands)
 
-***Note:** Not all alliances will plan heavily for this event. Casual alliances will often only expect members to show up and get enough personal points for maximum rewards. It is important for each player to understand what their alliance's playstyle is.**
+> [!NOTE]
+> Not all alliances will plan heavily for this event. Casual alliances will often only expect members to show up and get enough personal points for maximum rewards. It is important for each player to understand what their alliance's playstyle is.**
 
 ### What Leadership Should Do
 
@@ -372,7 +375,8 @@ During the Battle Phase, two matched Legions compete for control of the Foundry 
 |---|---|---:|
 | Sunday at the Legion's selected battle time | One hour after the battle begins | 1 hour |
 
-****Note:** Legion 1 and Legion 2 may battle at different times.**
+> [!NOTE]
+> Legion 1 and Legion 2 may battle at different times or at the same time.
 
 ### Entering the Battlefield
 
