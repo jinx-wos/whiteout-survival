@@ -194,11 +194,13 @@ Before registration closes, leadership should confirm that:
 
 ***Note:** Leadership should not feel pressured to fill all 30 combatant spots and 10 substitute spots. The goal is to register members that will attend the battle. Registering members who won't be available for the battle or who frequently miss events will skew matchmaking and make the battle more difficult to win if they don't attend.**
 
-### Registration and Matchmaking
+### Registration Strategy
 
-Registration decisions directly affect the opponent a Legion receives. Matchmaking uses the combined matchmaking power of the 20 strongest registered players across both Combatants and Substitutes. Substitutes are not excluded simply because they are reserve players.
+Registration is more than filling the roster with the strongest accounts.
 
-This means a powerful player who is registered but does not attend can make the matchup harder without contributing during the battle. Leadership should not add strong members merely to fill the roster or because they voted. Reliable attendance is more valuable than strength that never enters the battlefield.
+A good Foundry roster should prioritize players who will attend the full battle, follow calls, use the alliance's communication channel, and understands rallies and reinforcements. A reliable mid-power player is often more useful than a whale player that joins late, ignores instructions, or disappears while the battle is in progress.
+
+Matchmaking uses the combined matchmaking power (explained further in Matchmaking Phase section) of the 20 strongest registered players across both Combatants and Substitutes. Substitutes are not excluded simply because they are reserve players.
 
 Registering more than 20 players does not automatically increase the matchmaking calculation. However, any additional player strong enough to enter the Legion’s top 20 will affect it. The safest approach is to register the players who are genuinely expected to attend.
 
@@ -207,6 +209,127 @@ Registering more than 20 players does not automatically increase the matchmaking
 The roster shown at Thursday at 23:59 UTC becomes the Legion used for matchmaking. Leadership should complete a final review shortly before the deadline rather than assuming earlier assignments are still accurate.
 
 Once the registration phase ends, battle times and roster assignments are locked. Players should be aware and take note of their Legion and exact battle time before the Battle Phase begins.
+
+---
+
+## Matchmaking Phase
+
+During the Matchmaking Phase, the game pairs each registered Legion with an opponent. Registration is already closed, so battle times, Combatants, Substitutes, and Legion assignments can no longer be changed.
+
+As mentioned earlier, each alliance can have two legions registered. Each Legion is matched separately using its selected battle time and Matchmaking Power.
+
+### Schedule
+
+| Starts | Ends | Duration |
+|---|---|---:|
+| Friday at 00:00 UTC | Saturday at 23:59 UTC | 2 days |
+
+### How Matchmaking Works
+
+Matchmaking Power is calculated using the 20 strongest registered members of the Legion. Combatants and Substitutes are both considered.
+
+The number of troops a player owns is not included. Instead, Matchmaking Power is based on account progression.
+
+| Included in Matchmaking Power | Not Included |
+|---|---|
+| Chief Gear Power | Number of troops owned |
+| Hero Gear Power | Total Troop Power |
+| Battle Tech Power | |
+| Pet Power | |
+| Expert Power | |
+| Furnace Level | |
+| Troop Level | |
+
+### Power Can Change After the Match Is Set
+
+The Matchmaking Power shown on the Foundry screen can continue to increase after an opponent has been assigned.
+
+As registered players complete upgrades, their individual Matchmaking Power may rise, which updates the Legion’s displayed total. The assigned opponent remains unchanged once the matchup has been set.
+
+In the example below, the 20 strongest registered players initially totaled **70,893 Matchmaking Power**. The Foundry screen later increased to **70,992**, and then to **71,003**. These increases came from upgrades completed after the opponent had already been selected.
+
+| Timing | What the Power Represents |
+|---|---|
+| When matchmaking occurs | The roster strength used to find an opponent |
+| After the opponent appears | The current power of the registered roster, including later upgrades |
+| At battle time | The latest displayed power of both Legions |
+
+The power difference shown before battle may therefore be different from the power difference that existed when the matchup was originally created. The opposing Legion's displayed power may also increase before the battle.
+
+Once the opponent has been assigned, players can continue upgrading normally. There is no matchmaking advantage to delaying progression.
+
+### Understanding the Opponent Screen
+
+The opponent screen provides a basic comparison of both Legions, including their current Matchmaking Power and number of registered players.
+
+These numbers do not reveal:
+
+- How many registered players will actually attend
+- How power is distributed across the roster
+- The strength of each Legion's rally and garrison leaders
+- How well each Legion communicates and coordinates
+
+A Legion with lower displayed power can still win by bringing more active players and coordinating more effectively.
+
+### What Players Should Do
+
+Players should check their assigned Legion and battle time once the matchup appears.
+
+Anyone who can no longer attend should notify leadership immediately. The roster cannot be changed, but advance notice allows leadership to adjust teams and strategy around expected attendance.
+
+Players should also review alliance instructions for:
+
+- Starting assignments (which building should each player go after first?)
+- Rally and garrison leaders (who will create rallies to re-take buildings?)
+- Communication channels (using in-game chat or a 3rd party voice channel to communication commands)
+
+***Note:** Not all alliances will plan heavily for this event. Casual alliances will often only expect members to show up and get enough personal points for maximum rewards. It is important for each player to understand what their alliance's playstyle is.**
+
+### What Leadership Should Do
+
+During this phase, alliance leadership should shift its attention from roster building to battle preparation.
+
+Alliance leadership should:
+
+- Identify rally and garrison leaders
+- Divide players into battlefield teams
+- Assign starting buildings to players or teams
+- Announce the battle time(s) and strategy
+
+Template to assign players to buildings in Phase 1 of Battle:
+```
+Phase 1 Assignments
+Prototype1:
+Prototype2
+Repair1: 
+Repair2:
+Repair3: 
+Repair4: 
+Transit: 
+Boiler: 
+```
+
+Template to assign players to buildings in Phase 2 of Battle:
+```
+Phase 2 Assignments
+Imperial:
+Munitions:
+Mercenary:
+Prototype1:
+Prototype2
+Repair1: 
+Repair2:
+Repair3: 
+Repair4: 
+Transit: 
+Boiler: 
+```
+
+### No Opponent Found
+
+If the matchmaking system cannot find an opponent, the Legion receives an automatic win and does not enter a battle.
+
+The alliance receives the highest-level Alliance Ranking Rewards (if Legion 1 wasn't matched), while registered Combatants and Substitutes receive the designated auto-win personal rewards.
 
 ---
 
@@ -233,18 +356,6 @@ Each Legion may contain up to **30 Combatants** and **10 Substitutes**. A player
 A Legion needs at least **15 registered players** to enter matchmaking. This requirement is checked separately for Legion 1 and Legion 2.
 
 Alliance-wide rewards are based on the result of **Legion 1**. Personal rewards are based on each participating player's Personal Arsenal Points and whether that player's Legion won or lost.
-
----
-
-## Registration Strategy
-
-Registration is more than filling the roster with the thirty strongest accounts. Foundry rewards attendance, communication, and fast reactions. An alliance that registers powerful players who do not show up may enter with an impressive matchmaking profile and a weak actual roster.
-
-A good Foundry roster should prioritize players who will attend the full battle, follow calls, use the alliance's communication channel, understand rallies and reinforcements, and have enough troops and healing speedups to keep fighting. A reliable mid-power player is often more useful than a larger account that joins late, ignores instructions, or disappears after the opening phase.
-
-Legion 1 should normally contain the alliance's strongest combination of active players, rally leaders, experienced defenders, and dependable support accounts because Legion 1 determines the alliance-wide win or loss rewards.
-
-Substitutes should not be treated as unimportant reserves. They should be players who are likely to attend and can enter when a Combatant is absent. A substitute who is online and prepared can save a roster from entering short-handed.
 
 ---
 
